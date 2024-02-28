@@ -1,8 +1,7 @@
 <template>
-  <h1>Hello World!</h1>
-  <div>
-    <canvas id="myChart" width="1000" height="500"></canvas>
-  </div>
+	<div>
+		<canvas id="myChart" width="1000" height="500"></canvas>
+	</div>
 </template>
 
 <script lang="ts">
@@ -62,5 +61,4 @@
       }
     }
   }
-
 </script>
